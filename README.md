@@ -1,8 +1,8 @@
- Oiii!eu sou a Martha Cavalcanti
+ Oiii! eu sou Martha Cavalcanti
 
-- 🔭 SRE Jr
+- 🔭 Atuando como: SRE Jr
 - 🌱 Estudando: Linux e Aws
-- ⚡ Fun fact: Gosto de desenvolvimento de jogos
+- ⚡ Fun fact: Gosto de desenvolvimento de jogos e RPG
 -->
 <div>
   <a href ="https://github.com/martha8364">
