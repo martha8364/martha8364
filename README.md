@@ -13,7 +13,7 @@
   <img align="center" alt="Go" height="30" width="40" src=" 	https://img.shields.io/badge/Made%20with-Go-1f425f.svg">
   <img align="center" alt="Python" height="40" width="40" src="http://ForTheBadge.com/images/badges/python.svg">
   <img align="center" alt="martha-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="martha-argocd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="martha-elk" height="30" width="40" src="![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)">
   <img align="center" alt="martha-Linux" height="30" width="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="center" alt="martha-kibana" height="30" width="40" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
   <img align="center" alt="martha-AWS" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
