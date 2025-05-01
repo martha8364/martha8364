@@ -1,7 +1,7 @@
  Oiii!eu sou a Martha Cavalcanti
 
-- 🔭 Estágiaria ItOps e desenvolvedora back-end
-- 🌱 Estudando: desenvolvimento em Python
+- 🔭 SRE Jr
+- 🌱 Estudando: Linux e Aws
 - ⚡ Fun fact: Gosto de desenvolvimento de jogos
 -->
 <div>
