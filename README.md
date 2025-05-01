@@ -1,7 +1,7 @@
- Oiii! eu sou Martha Cavalcanti
+ Olá! eu sou Martha Cavalcanti, atuo como SRE Júnior em Fintechs, desenvolvo pesquisa na mesma área envolvendo Deep Learning baseada em SRE para monitoramento inteligente e confiável.
 
 - 🔭 Atuando como: SRE Jr
-- 🌱 Estudando: Linux e Aws
+- 🌱 Estudando: Linux e AWS
 - ⚡ Fun fact: Gosto de desenvolvimento de jogos e RPG
 -->
 <div>
