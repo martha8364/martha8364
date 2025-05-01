@@ -17,7 +17,7 @@
   <img align="center" alt="martha-Linux" height="50" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="martha-kibana" height="50" width="100" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
   <img align="center" alt="martha-AWS" height="50" width="80" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="martha-grafana" height="50" width="120" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+  <img align="down" alt="martha-grafana" height="50" width="120" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
  
 </div>
 
