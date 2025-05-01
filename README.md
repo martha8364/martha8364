@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="martha-Go" height="30" width="40" src=" 	https://img.shields.io/badge/Made%20with-Go-1f425f.svg">
-  <img align="center" alt="martha-Python" height="30" width="40" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  <img align="center" alt="Python" height="30" width="40" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   <img align="center" alt="martha-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="martha-argocd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="martha-Linux" height="30" width="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
